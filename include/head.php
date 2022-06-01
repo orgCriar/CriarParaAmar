@@ -7,6 +7,3 @@
     <title>Criar Para Amar </title>
 </head>
 <body>
-    <h1>Codar</h1>
-</body>
-</html>
