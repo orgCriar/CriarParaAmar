@@ -7,7 +7,7 @@
 <?php include './include/home.php'; ?>
 
 <!-- o que fazemos -->
-<?php include './include/section-o-que-fazemos.php'; ?>
+<?php include './include/o-que-fazemos.php'; ?>
 
 <!-- section parceiros  -->
 <?php include './include/parceiros.php'; ?>
