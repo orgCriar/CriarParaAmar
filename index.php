@@ -9,6 +9,9 @@
 <!-- o que fazemos -->
 <?php include './include/o-que-fazemos.php'; ?>
 
+<!-- about  -->
+<?php include './include/about.php'; ?>
+
 <!-- section parceiros  -->
 <?php include './include/parceiros.php'; ?>
 

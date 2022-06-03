@@ -1,0 +1,35 @@
+
+.about{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;		
+}
+.about__text h2{
+	font-size: var(--h2-font);
+	margin-bottom: 5px;
+}
+.about__text p{
+	font-size: var(--p-font);
+	color: var(--second-color);
+	line-height: 30px;
+}
+.about__more {
+    display: inline-block;
+    margin-top: 2rem;
+    
+}
+.about__more a{
+display: inline-block;
+font-size: 16px;
+padding: 12px 25px;
+background: #a9dc76;
+color: var(--main-color);
+border-radius: 4px;
+
+}
+
+.about__more a:hover {
+    color: var(--main-color);
+    background: #fff;
+    transition: ease .40s;
+}

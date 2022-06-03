@@ -1,7 +1,5 @@
 #contact{
-	
     background: url(../images/banner/footer.jpg);
-	
 }
 
 .main{
@@ -18,8 +16,9 @@
 }
 
 .list h4{
-	font-size: 21px;
-	color: var(--bg-color);
+	font-size: 20px;
+	font-weight: 400;
+	color: var(--aux-color-title);
 	margin-bottom: 30px;
 	position: relative;
 }

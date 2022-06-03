@@ -32,7 +32,8 @@
 
             
 		</div>
-		<div class="__btn">
+
+		<div class="details__btn">
 			 <a href="#" class="btn">Saiba +</a>
 		</div>
        

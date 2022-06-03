@@ -1,31 +1,31 @@
 <section id="contact">
 		<div class="footer">
 			<div class="main">
+
+			<!-- links úteis -->
 				<div class="list">
 					<h4>Links Úteis</h4>
 					<ul>
-					    <li><a href="#">Apoie</a></li>	
                         <li><a href="#">Home</a></li>
+						<li><a href="#">Apoie</a></li>	
 						<li><a href="index.php#home">Sobre</a></li>
-						<li><a href="index.php#o-que-fazemos">O que fazemos</a></li>
-						<li><a href="#">Compromisso</a></li>
-						
-                        <li><a href="#">Inglê</a></li>
-                        <li><a href="#">Italiano</a></li>
-
+						<li><a href="index.php#o-que-fazemos">O que fazemos</a></li>						
+                        
 					</ul>
 				</div>
 
+				<!-- documentos -->
 				<div class="list">
 					<h4>Doc</h4>
 					<ul>
-						<li><a href="#">About us</a></li>
-						<li><a href="#">Termos & Condições</a></li>
+						<li><a href="#">Termos</a></li>
+						<li><a href="#">Condições de uso</a></li>
 						<li><a href="#">Politica de Privacidade</a></li>
 						
 					</ul>
 				</div>
 
+				<!-- contatos -->
 				<div class="list">
 					<h4>Contatos </h4>
 					<ul>
@@ -37,6 +37,7 @@
 					</ul>
 				</div>
 
+				<!-- redes sociais -->
 				<div class="list">
 					<h4>Conecte-se conosco</h4>
 					<div class="social">
@@ -46,6 +47,7 @@
 						<a href="#"><i class='bx bxl-linkedin' ></i></a>
 					</div>
 				</div>
+
 			</div>
 		</div>
 
@@ -55,7 +57,7 @@
 	</section>
 
 	<!--link to js--->
-	<script type="text/javascript" src="./core/js/script.js"></script>
+	<script type="text/javascript" src="./core/js/main.js"></script>
 
 </body>
 </html>

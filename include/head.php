@@ -3,11 +3,22 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- style css root e body -->
 <link rel="stylesheet" type="text/css" href="./core/css/main.css">
-<link rel="stylesheet" type="text/css" href="./core/css/section-home.css">
+
+<!-- style css main -->
+<link rel="stylesheet" type="text/css" href="./core/css/stylesheet.css">
+
+<!-- style css home - banner  -->
+<link rel="stylesheet" type="text/css" href="./core/css/home.css">
+
+<!-- style css about  -->
+<link rel="stylesheet" type="text/css" href="./core/css/about.css">
+
+<!-- style css footer -->
 <link rel="stylesheet" type="text/css" href="./core/css/footer.css">
 
-	<link rel="stylesheet" type="text/css" href="./core/css/stylesheet.css">
+
 	
 	<link rel="stylesheet"
   href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">

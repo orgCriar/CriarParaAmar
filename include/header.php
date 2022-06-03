@@ -6,10 +6,9 @@
 		<ul class="navbar">
           
 			<li><a href="#home">Home</a></li>
-            <li><a href="#contact">Apoie</a></li>
-			<li><a href="#o-que-fazemos">O que fazemos</a></li>
-			<li><a href="#compromisso">Compromisso</a></li>
-            <li><a href="#parceiros"> Parceiros</a></li>
+            <li><a href="#apoie">Apoie</a></li>
+			<li><a href="#about">Sobre</a></li>
+            <li><a href="#o-que-fazemos">o que fazemos</a></li>
             <li><a href="#">Inglê</a></li>
             <li><a href="#">Italiano</a></li>
 
