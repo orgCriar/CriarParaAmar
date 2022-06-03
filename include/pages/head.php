@@ -3,23 +3,23 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
- 
-  <!-- style css root e body -->
+  
+  <!-- Global style css root e body -->
   <link rel="stylesheet" type="text/css" href="./core/css/main.css">
 
-  <!-- style header nav btn menu -->
+  <!-- Global style header nav btn menu -->
   <link rel="stylesheet" type="text/css" href="./core/css/header.css">
 
-  <!-- style css main -->
+  <!-- Global style css main -->
   <link rel="stylesheet" type="text/css" href="./core/css/stylesheet.css">
 
   <!-- style css home - banner  -->
-  <link rel="stylesheet" type="text/css" href="./core/css/home.css">
+  <link rel="stylesheet" type="text/css" href="./core/css/pages/home.css">
 
-  <!-- style css about  -->
+  <!-- Global style css about  -->
   <link rel="stylesheet" type="text/css" href="./core/css/about.css">
-
-  <!-- style css footer -->
+ 
+  <!-- Global style css footer -->
   <link rel="stylesheet" type="text/css" href="./core/css/footer.css">
 
 	<link rel="stylesheet"

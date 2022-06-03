@@ -6,11 +6,10 @@
 				<div class="list">
 					<h4>Links Úteis</h4>
 					<ul>
-                        <li><a href="#">Home</a></li>
-						<li><a href="#">Apoie</a></li>	
-						<li><a href="index.php#home">Sobre</a></li>
-						<li><a href="index.php#o-que-fazemos">O que fazemos</a></li>						
-                        
+                        <li><a href="index.php#home">Home</a></li>
+						<li><a href="#">Apoie</a></li>							
+						<li><a href="#">Inglê</a></li>
+            			<li><a href="#">Italiano</a></li>
 					</ul>
 				</div>
 

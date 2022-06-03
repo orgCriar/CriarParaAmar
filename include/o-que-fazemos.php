@@ -7,7 +7,7 @@
 
 			<div class="container-box">
 				<div class="container-img">
-				    <img src="./core/images/fazendinha_didatica.png">
+				    <img src="./core/images/fazendinha.png">
 				</div>
 				<h4>Fazendinha Didática</h4>
                 <p>Criamos a Fazendinha Didática para ensinar crianças e jovens de todas as idades.</p>
@@ -34,7 +34,7 @@
 		</div>
 
 		<div class="details__btn">
-			 <a href="#" class="btn">Saiba +</a>
+			 <a href="<?php echo 'o-que-fazemos.php'?>" class="btn">Saiba +</a>
 		</div>
        
 

@@ -1,4 +1,3 @@
-
 <section class="about" id="about">
 		<div class="about__text">
 			<h2>Quem Somos</h2>
@@ -11,8 +10,18 @@
             </p>
 		</div>
 
-       <div class="about__more">
-		<a href="#">Saiba +</a>
+       
+
+		<div class="about__more">
+			<a href="<?php echo 'compromisso.php'; ?>">Nosso compromisso</a>
+	    </div>
+
+		<div class="about__more">
+			<a href="compromisso.php#valores">Valores</a>
+	    </div>
+
+		<div class="about__more">
+			<a href="#">Apoiar</a>
 	    </div>
 
 	</section>

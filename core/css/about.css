@@ -16,6 +16,7 @@
 .about__more {
     display: inline-block;
     margin-top: 2rem;
+	margin-right: 1.5rem;
     
 }
 .about__more a{
