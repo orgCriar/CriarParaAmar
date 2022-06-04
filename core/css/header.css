@@ -52,6 +52,19 @@ header{
 	transition: ease .40s;
 
 }
+
+/* special donation button */
+.doacao{
+	color: var(--bg-color);
+	font-size: var(--p-font);
+	font-weight: 500;
+	border-radius: 4px;
+	transition: ease .40s;	
+	border:2px solid #a9dc76;
+	padding: 8px .2px;
+	margin-top: -9px;
+}
+
 .navbar a:hover{
 	background: var(--bg-color);
 	color: var(--text-color);
@@ -59,6 +72,8 @@ header{
 	border-radius: 4px;
 	
 }
+
+/* menu */
 #menu-icon{
 	color: var(--bg-color);
 	font-size: 35px;

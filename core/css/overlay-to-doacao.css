@@ -1,0 +1,118 @@
+  .overlay {
+    position: fixed;
+    height: 100vh;
+    background: white;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    display: grid;
+    grid-template-columns: 75% auto 6em;
+    opacity: 0;
+    transform: translateX(10%) scale(0.9);
+    pointer-events: none;
+  }
+  
+  .left,
+  .right,
+  .middle {
+    height: 100vh;
+    transform: translateX(10%);
+    opacity: 0;
+  }
+  
+  h2 {
+    color: var(--h2-font-color);
+    font-size: 5rem;
+    margin: 0;
+  }
+  
+  .left {
+    padding: 8em 10em;
+  }
+  
+  .left p.subhead {
+    color: black;
+    font-size: 1.5rem;
+    margin-top: -.5em;
+  }
+  
+  .cards {
+  
+    display: flex;
+    margin-top: 5em;
+  }
+  
+  .cards .card {
+    padding: 2em;
+    box-shadow: 15px 15px 53px rgba(128, 0, 255, 0.11);
+    border-radius: .5em;
+    padding: 1em;
+  }
+  
+  .cards .card strong {
+    color: black;
+  }
+  
+  .cards .card p {
+    color: #393241;
+  }
+  
+  .cards .card:nth-of-type(2) {
+    margin-left: 2em;
+  }
+  
+  .cards .card .cta {
+    padding: .5em 1em;
+    border-radius: .3em;
+    text-decoration: none;
+    background: #8000ff;
+    margin-top: 1em;
+    display: inline-block;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .cards .card .pay-once {
+    background: #ead5ff;
+    color: #3F007E;
+  }
+  
+  .middle {
+    padding-top: 10em;
+  }
+  
+  .middle a {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: black;
+    padding: .4em 0;
+    display: block;
+  }
+  
+  .middle .secondary a:hover {
+    color: #8000FF;
+  }
+  
+  .middle .social-nav {
+    margin-top: 3em;
+   
+    display: flex;
+    gap: 1em;
+  }
+  
+  .middle a:hover svg path {
+    fill: #8000FF;
+  }
+  
+  .right {
+    display: grid;
+    justify-items: center;
+    background: #8000FF;
+  }
+  
+  .exit {
+    margin-top: 9.2em;
+    cursor: pointer;
+  }
+  

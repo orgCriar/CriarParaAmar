@@ -6,8 +6,12 @@
 				<div class="list">
 					<h4>Links Úteis</h4>
 					<ul>
-                        <li><a href="index.php#home">Home</a></li>
-						<li><a href="#">Apoie</a></li>							
+						
+                    
+						<li><a href="index.php#home">Home</a></li>
+						<li><a href="index.php#about">Sobre</a></li>
+				
+										
 						<li><a href="#">Inglê</a></li>
             			<li><a href="#">Italiano</a></li>
 					</ul>
@@ -51,12 +55,17 @@
 		</div>
 
 		<div class="end-text">
-			<p>Copyright ©2022 Todos os Direitos Reservados | Equipe-Dev Criar Para Amar</p>
+			<p>Copyright ©<?php echo date('Y'); ?> Todos os Direitos Reservados | Equipe-Dev Criar Para Amar</p>
 		</div>
 	</section>
 
-	<!--link to js--->
+	<!--link intern to js--->
 	<script type="text/javascript" src="./core/js/main.js"></script>
+
+	<!-- overlay to doacao -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js" integrity="sha512-2fk3Q4NXPYAqIha0glLZ2nluueK43aNoxvijPf53+DgL7UW9mkN+uXc1aEmnZdkkZVvtJZltpRt+JqTWc3TS3Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+	<script type="text/javascript" src="./core/js/overlay.js"></script>
 
 </body>
 </html>

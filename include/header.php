@@ -9,15 +9,18 @@
 		</div>
 
 		<!-- icon menu -->
-		<div class="bx bx-menu" id="menu-icon"></div>
+		<div class="overlay_none_menu">
+			<div class="bx bx-menu" id="menu-icon"></div>
 
-		<ul class="navbar">
-          
-			<li><a href="index.php#home">Home</a></li>
-            <li><a href="index.php#apoie">Apoie</a></li>
-			<li><a href="index.php#about">Sobre</a></li>
-            <li><a href="index.php#o-que-fazemos">o que fazemos</a></li>
-           
+			<ul class="navbar">
+			
+				<li><a href="index.php#home">Home</a></li>
+				<li><a href="index.php#about">Sobre</a></li>
+				<li><a href="index.php#o-que-fazemos">O que fazemos</a></li>
+				<li class="active doacao"><a href="#">Doação</a></li>
+			
 
-		</ul>
+			</ul>
+		</div>
+		
 	</header>
